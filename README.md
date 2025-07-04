@@ -7,7 +7,8 @@ Input:
 Output
    simple interest = p*t*r
 
-Contributions are welcome! Feel free to open issues or submit PRs to:
+Contributions are welcome! Feel free to open issues or submit PRs to: we can do the following
+
 
     Fix bugs 🐞
 
